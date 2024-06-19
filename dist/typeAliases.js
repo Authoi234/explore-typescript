@@ -44,3 +44,4 @@
 //     ],
 //     isLoggedIn: false
 // }
+// Array.isArray(person.phone) && person.phone.map((val) => val.toLowerCase())
